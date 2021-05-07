@@ -1,4 +1,4 @@
-/* Invalid character(s) '$(function()
+$(function()
 {	
 	$("input,textarea").jqBootstrapValidation(
     {
@@ -79,4 +79,4 @@
 		
 	 	return path
 	 }
-});' at 1:0. Ignoring. */
+});
